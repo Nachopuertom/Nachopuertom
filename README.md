@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![<jpuerto->'s 42 stats](https://badge.mediaplus.ma/<theme>/<jpuerto->)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto-'s 42 stats" /></a>
