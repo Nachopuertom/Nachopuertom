@@ -50,6 +50,10 @@
 ## 📬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+  <a href="https://tu-portfolio.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-000000?logo=web&logoColor=fff" alt="Portfolio Badge" />
+  </a>
 
 
 
