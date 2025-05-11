@@ -142,7 +142,12 @@
        <img src="assets/fittracker.gif" />
     </td>
     <td>
-
+      <tr>
+         App to keep track of your daily exercise and calories
+      <\tr>
+        <tr>
+          Enlace
+        <\tr>
     </td>
   </tr>
 </table>
