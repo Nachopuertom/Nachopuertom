@@ -122,8 +122,6 @@
   </tr>
    <tr>
     <td>🕹🖊 Working on more...</td>
-     <td></td>
-     <td></td>
   </tr>
 </table>
 
