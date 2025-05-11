@@ -166,9 +166,7 @@
        -------------------------------------------------------------<br>
         🚧 Currently in progress... <br><br>
           <a href="https://github.com/Nachopuerto95/Restaurants_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
-         <a href="https://nachopuertoportfolio.netlify.app/">
-            <img src="https://custom-icon-badges.demolab.com/badge/LINK-6f42c1?logo=link&logoColor=fff" width="72" alt="Portfolio Badge" />
-          </a<br><br><br><br>
+        <br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
     </td>
   </tr>
@@ -185,6 +183,7 @@
           Film social network,featuring various functionalities <br>
       -------------------------------------------------------------<br>
           <a href="https://github.com/Nachopuerto95/Reelations_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://nachopuertoportfolio.netlify.app/">
             <img src="https://custom-icon-badges.demolab.com/badge/LINK-6f42c1?logo=link&logoColor=fff" width="72" alt="Portfolio Badge" />
           </a<br><br><br><br><br>
@@ -204,6 +203,7 @@
         Just a 2D Platform endless runner game <br>
       -------------------------------------------------------------<br>
           <a href="https://github.com/Nachopuerto95/2D_GAME_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://nachopuertoportfolio.netlify.app/">
             <img src="https://custom-icon-badges.demolab.com/badge/LINK-6f42c1?logo=link&logoColor=fff" width="72" alt="Portfolio Badge" />
           </a<br><br><br><br><br>
