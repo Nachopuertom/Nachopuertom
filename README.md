@@ -11,7 +11,9 @@
   </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+    </td>
+  </tr>
 </table>
-
-![](https://leetcard.jacoblin.cool/Nachopuerto95?ext=activity_theme=nord)
-
