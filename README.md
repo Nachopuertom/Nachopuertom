@@ -144,8 +144,10 @@
     <td>
         App for tracking daily exercise and calories ingest <br>
       -------------------------------------------------------------<br>
-          <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
-        <br><br><br><br><br>
+          <a href="https://github.com/Nachopuerto95/Fit_tracker_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+          <a href="https://nachopuertoportfolio.netlify.app/">
+            <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
+          </a><br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
     </td>
   </tr>
@@ -162,7 +164,7 @@
         Just eat style web, google apis, autocomplete, geolocation. <br>
        -------------------------------------------------------------<br>
         🚧 Currently in progress... <br><br>
-          <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+          <a href="https://github.com/Nachopuerto95/Restaurants_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
     </td>
@@ -179,7 +181,7 @@
     <td>
           Film social network,featuring various functionalities <br>
       -------------------------------------------------------------<br>
-          <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+          <a href="https://github.com/Nachopuerto95/Reelations_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
     </td>
@@ -196,7 +198,7 @@
     <td>
         Just a 2D Platform endless runner game <br>
       -------------------------------------------------------------<br>
-          <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+          <a href="https://github.com/Nachopuerto95/2D_GAME_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,html,css" width="100" />
     </td>
