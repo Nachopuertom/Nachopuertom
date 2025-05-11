@@ -26,12 +26,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&show_icons=true&theme=tokyonight" alt="Nacho Puerto's GitHub stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&layout=compact&theme=tokyonight" />
 </p>
 
+<!-- Aquí es donde se vuelve a la tabla en columna -->
 <table align="center" width="100%">
-   <tr>
-    <td align="center" width="33%">
+  <tr>
+    <td align="center">
       <details>
         <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
         <a href="https://github.com/oakoudad/badge42">
@@ -39,7 +42,9 @@
         </a>
       </details>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center">
       <details>
         <summary><img src="assets/LeetCode_Logo_1.png" width="20" alt="Leetcode logo" />&nbsp; Show Leetcode Profile</summary>
         <a href="https://leetcode.com/u/nachopuerto95/">
@@ -48,7 +53,9 @@
         </a>
       </details>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center">
       <details>
         <summary><img src="assets/5387632.png" width="20" alt="42 Logo" />&nbsp; Show Codewars Profile</summary>
         <a href="https://www.codewars.com/users/Nachopuerto95">
@@ -59,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
