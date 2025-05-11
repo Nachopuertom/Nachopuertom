@@ -13,3 +13,5 @@
   </tr>
 </table>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+
