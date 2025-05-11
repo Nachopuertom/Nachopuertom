@@ -89,11 +89,11 @@
     </td>
   </tr>
   <tr>
-    <td>🖊get_next_line</td>
+    <td>🖊gnl</td>
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/get_next_line"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Function to read lines from a file descriptor, handling buffers and dynamic memory.    
+        "Get next line" Function to read lines from a file descriptor, handling buffers and dynamic memory.    
     </td>
   </tr>
   <tr>
