@@ -14,7 +14,7 @@
 
 ## 📚 My Coding Profiles
 
-<table align="center">
+<table align="center" width="300">
   <tr>
     <td align="center">
       <details>
