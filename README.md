@@ -9,7 +9,7 @@
   <tr>
     <td align="center">
       <details>
-        <summary>Show Codewars Profile</summary>
+        <summary><img src="assets/5387632.png" width="20" color="white" alt="42 Logo" />&nbsp; Show Codewars Profile</summary>
         <a href="https://www.codewars.com/users/Nachopuerto95">
           <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true&bg=%23111111&stroke=%23e0e0e0&text=%23e0e0e0" alt="Codewars stats" />
         </a>
