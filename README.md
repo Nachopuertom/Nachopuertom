@@ -49,7 +49,7 @@
 </table>
 <br>
 
-## ⚙📟 42 Madrid projects. Low level, C, C++ ...
+## 📟 42 Madrid projects. [Low level, C, C++, Shell] ...
 
 <br>
 <table align="center">
@@ -128,6 +128,11 @@
   </tr>
 </table>
 
+<br>
+
+## 🌐 Full stack web development [Frontend, Backend, Database, Rest API, Grapgic design] ...
+
+<br>
 
 
 
