@@ -59,6 +59,10 @@
   <a href="https://twitter.com/Nachopuerto95" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=social&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://www.instagram.com/nachopuerto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
+
 
 
