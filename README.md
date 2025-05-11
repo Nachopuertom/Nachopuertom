@@ -14,9 +14,9 @@
 
 ## 📚 My Coding Profiles
 
-<table align="center" width="300">
-  <tr  width="300">
-    <td align="center"  width="300">
+<table align="center">
+  <tr>
+    <td align="center" >
         <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; 42 Profile</summary>
         <a href="https://github.com/oakoudad/badge42">
           <br><br>
