@@ -9,7 +9,7 @@
   <tr>
     <td align="center">
       <details>
-        <summary>Show Codewars profiles</summary>
+        <summary>Show Codewars Profile</summary>
         <a href="https://www.codewars.com/users/Nachopuerto95">
           <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true&bg=%23111111&stroke=%23e0e0e0&text=%23e0e0e0" alt="Codewars stats" />
         </a>
@@ -27,3 +27,9 @@
     </td>
   </tr>
 </table>
+<details>
+  <summary><img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="20" alt="React Logo" /> React Projects</summary>
+
+  Aquí puedes describir tus proyectos con React, Node, etc.
+</details>
+
