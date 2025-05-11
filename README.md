@@ -25,7 +25,7 @@
 ## 📚 My Coding Profiles
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&show_icons=true&theme=transparent&hide_border=true" alt="Nacho Puerto's GitHub stats width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&show_icons=true&theme=transparent&hide_border=true" alt="Nacho Puerto's GitHub stats width="100%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopuerto95&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
