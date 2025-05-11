@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
      <details>
-       <summary>Show 42 Profile</summary>
+       <summary><img src="assets/42-logo.svg" width="16" color="white" alt="42 Logo" />Show 42 Profile</summary>
        <a href="https://github.com/oakoudad/badge42">
               <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto-'s 42 stats" />
         </a>
@@ -27,9 +27,3 @@
     </td>
   </tr>
 </table>
-<details>
-  <summary><img src="assets/42-logo.svg" width="16" color="white" alt="42 Logo" />> React Projects</summary>
-
-  Aquí puedes describir tus proyectos con React, Node, etc.
-</details>
-
