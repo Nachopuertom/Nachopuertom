@@ -51,26 +51,76 @@
 
 <table align="center">
   <tr>
-    <th>📁 Proyecto</th>
-    <th>💻 Lenguaje</th>
-    <th>🔗 Documentación</th>
+    <th align="left">📁 Proyecto</th>
+    <th align="left">💻 Lenguaje</th>
+    <th align="left">🔗 Documentación</th>
   </tr>
   <tr>
-    <td>📚 Libft</td>
+    <td>
+      📚 <strong>Libft</strong><br>
+      <em>Implementación desde cero de funciones estándar de C.</em>
+    </td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🧵 <strong>Get_next_line</strong><br>
+      <em>Lectura línea por línea desde archivos o stdin.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🖨️ <strong>Ft_printf</strong><br>
+      <em>Reimplementación de printf con múltiples especificadores.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🕹️ <strong>So_long</strong><br>
+      <em>Juego simple 2D usando una librería gráfica.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🔁 <strong>Push_swap</strong><br>
+      <em>Algoritmo de ordenación con operaciones limitadas.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🧠 <strong>Philosophers</strong><br>
+      <em>Simulación del problema clásico de los filósofos.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🐚 <strong>Minishell</strong><br>
+      <em>Implementación de una shell básica tipo bash.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td>
+      🎮 <strong>VirtualMachine</strong><br>
+      <em>Simulador de juego Corewar entre múltiples procesos.</em>
+    </td>
+    <td>C</td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
   </tr>
 </table>
-<p align="center"><em>Implementación desde cero de funciones básicas de la libc en C.</em></p>
 
-<table align="center">
-  <tr>
-    <td>🧵 Get_next_line</td>
-    <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
-  </tr>
-</table>
-<p align="center"><em>Lectura eficiente de líneas desde un descriptor de archivo.</em></p>
 
 
 
