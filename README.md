@@ -1,3 +1,6 @@
+## 👋 Hi there, I'm Nacho Puerto
+I'm a full-stack developer passionate about building clean, scalable web applications.
+
 <table align="center">
   <tr>
     <td align="center">
