@@ -177,7 +177,7 @@
         Just a 2D Platform endless runner game <br><br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
-        <img src="https://skillicons.dev/icons?i=git,js,html,css" width="200" />
+        <img src="https://skillicons.dev/icons?i=git,js,html,css" width="100" />
     </td>
   </tr>
 </table>
