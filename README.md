@@ -158,7 +158,8 @@
        <img src="assets/reelations.gif" />
     </td>
     <td>
-        Just eat style web, google apis, autocomplete, geolocation. <br><br>
+        Just eat style web, google apis, autocomplete, geolocation. <br>
+       ...........................................................<br>
         🚧 Currently in progress... <br><br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br>
@@ -175,7 +176,7 @@
        <img src="assets/reelations.gif" />
     </td>
     <td>
-          Film social network,Justwatch style featuring various functionalities <br><br>
+          Film social network,featuring various functionalities <br><br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
