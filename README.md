@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; width: 32%;" />
 </p>
 
-<table align="center" width="100%">
+<table align="center" width="600">
   <tr>
     <td align="center" colspan="2">
       <details>
