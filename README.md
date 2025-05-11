@@ -56,6 +56,30 @@
     <th>🔗 Documentación</th>
     <th>ℹ️ Descripción</th>
   </tr>
+    <tr>
+    <td>🐚 Minishell</td>
+    <td>C</td>
+    <td><a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Shell mínima que implementa parsing, redirecciones y ejecución de comandos.
+    </td>
+  </tr>
+   <tr>
+    <td>🍝 Philosophers</td>
+    <td>C</td>
+    <td><a href="https://github.com/Nachopuerto95/philosophers"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Solución al problema clásico de sincronización con hilos y mutexes.
+    </td>
+  </tr>
+    <tr>
+    <td>♻️ Push_swap</td>
+    <td>C</td>
+    <td><a href="https://github.com/Nachopuerto95/push_swap"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Algoritmo para ordenar números con operaciones mínimas en dos pilas.
+    </td>
+  </tr>
   <tr>
     <td>📚 Libft</td>
     <td>C</td>
@@ -94,30 +118,6 @@
     <td><a href="https://github.com/Nachopuerto95/so_long"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
         Juego simple en 2D usando la librería gráfica MiniLibX.
-    </td>
-  </tr>
-  <tr>
-    <td>♻️ Push_swap</td>
-    <td>C</td>
-    <td><a href="https://github.com/Nachopuerto95/push_swap"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
-    <td>
-        Algoritmo para ordenar números con operaciones mínimas en dos pilas.
-    </td>
-  </tr>
-  <tr>
-    <td>🍝 Philosophers</td>
-    <td>C</td>
-    <td><a href="https://github.com/Nachopuerto95/philosophers"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
-    <td>
-        Solución al problema clásico de sincronización con hilos y mutexes.
-    </td>
-  </tr>
-  <tr>
-    <td>🐚 Minishell</td>
-    <td>C</td>
-    <td><a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
-    <td>
-        Shell mínima que implementa parsing, redirecciones y ejecución de comandos.
     </td>
   </tr>
 </table>
