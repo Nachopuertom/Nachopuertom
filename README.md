@@ -4,4 +4,4 @@
   </a>
 </p>
 
-[![Codewars](https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true)](https://www.codewars.com/users/Nachopuerto95)
+[![Codewars](https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true_theme=dark)](https://www.codewars.com/users/Nachopuerto95)
