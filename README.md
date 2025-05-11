@@ -65,7 +65,7 @@
     </td>
   </tr>
    <tr>
-    <td>🍝 Philosopher</td>
+    <td>🍝 Philosophers</td>
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/philosophers"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
