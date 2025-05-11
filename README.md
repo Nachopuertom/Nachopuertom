@@ -134,13 +134,15 @@
 
 <br>
 
+#### Fittracker
+
 <table>
   <tr>
     <td>
        <img src="assets/fittracker.gif" />
     </td>
     <td>
-      fittrackjer noseque
+
     </td>
   </tr>
 </table>
