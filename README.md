@@ -144,7 +144,7 @@
     <td>
          App to keep track of your daily exercise and calories <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css" width="300" />
+        <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css" width="100" />
         <br>
         <a href="https://github.com/Nachopuerto95/minishell"><img width="300" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
     </td>
