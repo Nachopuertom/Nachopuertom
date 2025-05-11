@@ -130,7 +130,7 @@
 
 <br>
 
-## 🌐 Full stack web development [Frontend, Backend, Database, Rest API, Grapgic design] ...
+## 🌐 Full stack development [Frontend, Backend, Database, Rest API, Grapgic design] ...
 
 <br>
 
