@@ -51,18 +51,53 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nachopuerto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Nachopuerto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=social&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/Nachopuerto95" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=social&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/nachopuerto/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nachopuerto/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://github.com/Nachopuerto" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="40" />
+  </a>
+  <a href="https://twitter.com/Nachopuerto95" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/twitter.png" alt="Twitter" width="40" />
+  </a>
+  <a href="https://www.instagram.com/nachopuerto/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" alt="Instagram" width="40" />
+  </a>
+</p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nachopuerto/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://github.com/Nachopuerto" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="40" />
+  </a>
+  <a href="https://twitter.com/Nachopuerto95" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="40" />
+  </a>
+  <a href="https://www.instagram.com/nachopuerto/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="40" />
+  </a>
+</p>
+
 
 
 
