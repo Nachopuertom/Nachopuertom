@@ -134,8 +134,15 @@
 
 <br>
 
-![Carrusel de proyectos](assets/fittracker.gif)
-
-fittracker
+<table>
+  <tr>
+    <td>
+      ![Carrusel de proyectos](assets/fittracker.gif)
+    </td>
+    <td>
+      fittrackjer noseque
+    </td>
+  </tr>
+</table>
 
 
