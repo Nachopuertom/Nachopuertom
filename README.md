@@ -89,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td>🧵 Get_next_line</td>
+    <td>🧵get_next_line</td>
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/get_next_line"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
