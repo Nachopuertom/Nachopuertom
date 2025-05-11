@@ -1,5 +1,7 @@
-## 👋 Hi there, I'm Nacho Puerto
-I'm a full-stack developer passionate about building clean, scalable web applications.
+<p align="center">
+  ## 👋 Hello! I'm Nacho Puerto
+  I'm a software developer with experience in full-stack web development and low-level programming. I'm currently open to new job opportunities!
+</p>
 
 <table align="center">
   <tr>
