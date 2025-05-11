@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&hide_border=true&bg_color=0D1117&layout=compact&theme=react" alt="Top Languages" style="display:inline-block; width: 35%;" />
 </p>
 
-<p align="center">
+
   <details>
     <summary><img src="assets/42-logo.svg" width="20" /> &nbsp;Show 42 Profile</summary>
     <a href="https://github.com/oakoudad/badge42">
@@ -51,7 +51,7 @@
       <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" />
     </a>
   </details>
-</p>
+
 
 </table>
 
