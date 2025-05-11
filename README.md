@@ -36,14 +36,12 @@
       <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" />
     </a>
   </details>
-  &nbsp;&nbsp;&nbsp;
   <details>
     <summary><img src="assets/LeetCode_Logo_1.png" width="20" /> &nbsp;Show LeetCode Profile</summary>
     <a href="https://leetcode.com/u/nachopuerto95/">
       <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" />
     </a>
   </details>
-  &nbsp;&nbsp;&nbsp;
   <details>
     <summary><img src="assets/5387632.png" width="20" /> &nbsp;Show Codewars Profile</summary>
     <a href="https://www.codewars.com/users/Nachopuerto95">
