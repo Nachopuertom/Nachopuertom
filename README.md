@@ -137,7 +137,7 @@
 <table>
   <tr>
     <td>
-      ![Carrusel de proyectos](assets/fittracker.gif)
+       <img src="assets/fittracker.gif" />
     </td>
     <td>
       fittrackjer noseque
