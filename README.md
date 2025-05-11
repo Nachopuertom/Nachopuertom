@@ -28,7 +28,7 @@ I'm a developer with a passion for full-stack web development and low-level prog
       <details>
         <summary><img src="assets/5387632.png" width="20" color="white" alt="42 Logo" />&nbsp; Show Codewars Profile</summary>
         <a href="https://www.codewars.com/users/Nachopuerto95">
-          <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true&bg=%23111111&stroke=%23e0e0e0&text=%23e0e0e0" alt="Codewars stats" />
+          <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" alt="Codewars stats" />
         </a>
       </details>
     </td>
