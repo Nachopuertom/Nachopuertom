@@ -1,5 +1,5 @@
+## 👋 Hello! I'm Nacho Puerto
 <p align="center">
-  ## 👋 Hello! I'm Nacho Puerto
   I'm a software developer with experience in full-stack web development and low-level programming. I'm currently open to new job opportunities!
 </p>
 
