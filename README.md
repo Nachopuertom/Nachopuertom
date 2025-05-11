@@ -27,7 +27,7 @@
 <!-- GitHub Stats y Lenguajes en la misma fila -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&show_icons=true&theme=tokyonight" alt="Nacho Puerto's GitHub stats" style="display:inline-block; margin-right:20px; width: 46%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; width: 35%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; width: 34%;" />
 </p>
 
 <!-- Tabla con perfiles en columna y mayor ancho para los perfiles -->
