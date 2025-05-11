@@ -7,7 +7,7 @@
     </td>
     <td align="center">
       <a href="https://www.codewars.com/users/Nachopuerto95">
-        <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true" alt="Codewars stats" />
+        <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true_theme=dark" alt="Codewars stats" />
       </a>
     </td>
   </tr>
