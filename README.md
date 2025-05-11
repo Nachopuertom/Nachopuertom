@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Nacho Puerto
 <p align="center">
-  I'm a software developer with experience in full-stack web development and low-level programming. I'm currently open to new job opportunities!
+I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
 </p>
 
 <table align="center">
