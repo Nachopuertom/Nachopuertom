@@ -52,7 +52,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 <a href="https://tu-portfolio.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-1E1E1E?logo=web&logoColor=FF00AA" alt="Portfolio Badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-0d6efd?logo=web&logoColor=fff" alt="Portfolio Badge" />
 </a>
 
 
