@@ -142,9 +142,9 @@
        <img src="assets/fittracker.gif" />
     </td>
     <td>
-         App to keep track of your daily exercise and calories <br><br>
+         An app where you can select a weekly workout and it will tell you every day your progress with weight exercises, the amount of calories and macronutrients ingested. <br><br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
-        <br><br><br><br><br>
+        <br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css" width="300" />
     </td>
   </tr>
