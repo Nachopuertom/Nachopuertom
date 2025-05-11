@@ -143,8 +143,10 @@
     </td>
     <td>
          App to keep track of your daily exercise and calories <br>
+        <br>
         <a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
-        <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css" width="200" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css" width="300" />
     </td>
   </tr>
 </table>
