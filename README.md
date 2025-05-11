@@ -172,7 +172,7 @@
 <table>
   <tr>
     <td>
-       <img width="300" src="assets/reelations.gif" />
+       <img src="assets/reelations.gif" />
     </td>
     <td>
           Film social network featuring various functionalities <br><br>
