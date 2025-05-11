@@ -25,8 +25,7 @@
 ## 📚 My Coding Profiles
 
 <p align="center">
-  <img alt="Mendiola's Github Stats" src="https://camo.githubusercontent.com/8612b2a9ca568786c5c368c7fcf455f987bdc3ea45727734bf63eb0ebaa46c7e/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d694d656e64696f6c612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d72656163742662675f636f6c6f723d304431313137267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726686964655f626f726465723d74727565" height="192" width="45%" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nachopuerto95&amp;show_icons=true&amp;include_all_commits=true&amp;theme=react&amp;bg_color=0D1117&amp;title_color=fff&amp;icon_color=79ff97&amp;hide_border=true" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&hide_border=true&show_icons=true&theme=react" alt="Nacho Puerto's GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&hide_border=true&show_icons=true&theme=reactbg_color=0D1117&title_color=fff&icon_color=79ff97" alt="Nacho Puerto's GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&hide_border=true&layout=compact&theme=transparent" alt="Top Languages" style="display:inline-block; width: 35%;" />
 </p>
 
