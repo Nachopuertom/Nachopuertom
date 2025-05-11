@@ -3,6 +3,7 @@
 <p align="center">
   I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
 </p>
+
 ## 🛠️ Skills
 
 <p align="center">
