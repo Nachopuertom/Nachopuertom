@@ -44,7 +44,7 @@
   <tr>
     <td align="center">
       <details>
-        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
+        <summary><img src="assets/LeetCode_Logo_1.png" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
          <a href="https://leetcode.com/u/nachopuerto95/">
           <br><br>
           <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" alt="LeetCode stats" />
