@@ -48,8 +48,9 @@
 
 </table>
 
-## ⚙️ 42 Madrid projects. Low level, C, C++ ...
+## ⚙📟 42 Madrid projects. Low level, C, C++ ...
 
+<br>
 <table align="center">
   <tr>
     <th>📁 Proyecto</th>
