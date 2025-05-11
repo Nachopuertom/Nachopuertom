@@ -51,73 +51,95 @@
 
 <table align="center">
   <tr>
-    <th align="left">📁 Proyecto</th>
-    <th align="left">💻 Lenguaje</th>
-    <th align="left">🔗 Documentación</th>
+    <th>📁 Proyecto</th>
+    <th>💻 Lenguaje</th>
+    <th>🔗 Documentación</th>
+    <th>ℹ️ Descripción</th>
   </tr>
   <tr>
-    <td>
-      📚 <strong>Libft</strong><br>
-      <em>Implementación desde cero de funciones estándar de C.</em>
-    </td>
+    <td>📚 Libft</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/libft"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Implementación desde cero de funciones básicas de la libc en C.
+    </td>
   </tr>
   <tr>
-    <td>
-      🧵 <strong>Get_next_line</strong><br>
-      <em>Lectura línea por línea desde archivos o stdin.</em>
-    </td>
+    <td>🧵 Get_next_line</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/get_next_line"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Función para leer líneas de un descriptor de archivo, manejando buffers y memoria dinámica.
+      </details>
+    </td>
   </tr>
   <tr>
-    <td>
-      🖨️ <strong>Ft_printf</strong><br>
-      <em>Reimplementación de printf con múltiples especificadores.</em>
-    </td>
+    <td>🖥️ VirtualMachine</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Máquina virtual para simular el juego "Corewar" entre procesos ensambladores.
+      </details>
+    </td>
   </tr>
   <tr>
-    <td>
-      🕹️ <strong>So_long</strong><br>
-      <em>Juego simple 2D usando una librería gráfica.</em>
-    </td>
+    <td>🖨️ Ft_printf</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/ft_printf"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Réplica de la función `printf`, gestionando formatos, buffers y múltiples tipos.
+      </details>
+    </td>
   </tr>
   <tr>
-    <td>
-      🔁 <strong>Push_swap</strong><br>
-      <em>Algoritmo de ordenación con operaciones limitadas.</em>
-    </td>
+    <td>🕹️ So_long</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/so_long"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Juego simple en 2D usando la librería gráfica MiniLibX.
+      </details>
+    </td>
   </tr>
   <tr>
-    <td>
-      🧠 <strong>Philosophers</strong><br>
-      <em>Simulación del problema clásico de los filósofos.</em>
-    </td>
+    <td>♻️ Push_swap</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/push_swap"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Algoritmo para ordenar números con operaciones mínimas en dos pilas.
+      </details>
+    </td>
   </tr>
   <tr>
-    <td>
-      🐚 <strong>Minishell</strong><br>
-      <em>Implementación de una shell básica tipo bash.</em>
-    </td>
+    <td>🍝 Philosophers</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/philosophers"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Solución al problema clásico de sincronización con hilos y mutexes.
+      </details>
+    </td>
   </tr>
   <tr>
-    <td>
-      🎮 <strong>VirtualMachine</strong><br>
-      <em>Simulador de juego Corewar entre múltiples procesos.</em>
-    </td>
+    <td>🐚 Minishell</td>
     <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-000?style=flat&logo=github&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+      <details>
+        <summary>Ver más</summary>
+        Shell mínima que implementa parsing, redirecciones y ejecución de comandos.
+      </details>
+    </td>
   </tr>
 </table>
 
