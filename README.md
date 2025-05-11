@@ -134,7 +134,7 @@
 
 <br>
 
-<img src="assets/fittracker.gif" width="200" />
+<img src="assets/fittracker.gif"/>
 
 
 
