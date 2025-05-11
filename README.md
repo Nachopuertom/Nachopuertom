@@ -62,7 +62,7 @@
     <tr>
     <td>🐚 Minishell</td>
     <td>C</td>
-    <td><a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td><a href="https://github.com/jpuerto-loruzqui/42Minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
         Development of a customized shell
     </td>
