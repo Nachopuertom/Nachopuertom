@@ -124,7 +124,7 @@
     </td>
   </tr>
    <tr>
-    <td>🕹🖊 Working on more...</td>
+    <td>🖊 Working on more...</td>
   </tr>
 </table>
 
