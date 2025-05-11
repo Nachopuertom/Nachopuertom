@@ -22,7 +22,7 @@
 
 <details>
   <summary>Haz clic para ver más</summary>
-
+  ```c
   <a href="https://www.codewars.com/users/Nachopuerto95">
     <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true&bg=%23111111&stroke=%23e0e0e0&text=%23e0e0e0" alt="Codewars stats" />
   </a>
