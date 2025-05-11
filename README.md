@@ -23,8 +23,9 @@
 <details>
   <summary>Haz clic para ver más</summary>
 
-  Aquí puedes escribir contenido oculto que se desplegará al hacer clic.  
-  Puedes poner texto, imágenes, listas, e incluso código.
+  <a href="https://www.codewars.com/users/Nachopuerto95">
+    <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true&bg=%23111111&stroke=%23e0e0e0&text=%23e0e0e0" alt="Codewars stats" />
+  </a>
 
   ```c
   printf("Hola mundo");
