@@ -69,10 +69,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/get_next_line"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Función para leer líneas de un descriptor de archivo, manejando buffers y memoria dinámica.
-      </details>
     </td>
   </tr>
   <tr>
@@ -80,10 +77,7 @@
     <td>C</td>
     <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Máquina virtual para simular el juego "Corewar" entre procesos ensambladores.
-      </details>
     </td>
   </tr>
   <tr>
@@ -91,10 +85,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/ft_printf"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Réplica de la función `printf`, gestionando formatos, buffers y múltiples tipos.
-      </details>
     </td>
   </tr>
   <tr>
@@ -102,10 +93,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/so_long"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Juego simple en 2D usando la librería gráfica MiniLibX.
-      </details>
     </td>
   </tr>
   <tr>
@@ -113,10 +101,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/push_swap"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Algoritmo para ordenar números con operaciones mínimas en dos pilas.
-      </details>
     </td>
   </tr>
   <tr>
@@ -124,10 +109,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/philosophers"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Solución al problema clásico de sincronización con hilos y mutexes.
-      </details>
     </td>
   </tr>
   <tr>
@@ -135,10 +117,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-      <details>
-        <summary>Ver más</summary>
         Shell mínima que implementa parsing, redirecciones y ejecución de comandos.
-      </details>
     </td>
   </tr>
 </table>
