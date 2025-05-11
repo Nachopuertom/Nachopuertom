@@ -2,6 +2,12 @@
 <p align="center">
 I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <br><br>
 
 <div align="center">
