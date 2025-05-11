@@ -2,6 +2,7 @@
 <p align="center">
 I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
 </p>
+<br><br>
 
 <div align="center">
 
@@ -22,6 +23,8 @@ I'm a developer with a passion for full-stack web development and low-level prog
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 
 </div>
+<br><br>
+
 
 
 
