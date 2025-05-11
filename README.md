@@ -146,7 +146,7 @@
       -------------------------------------------------------------<br>
           <a href="https://github.com/Nachopuerto95/Fit_tracker_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
           <a href="https://nachopuertoportfolio.netlify.app/">
-            <img src="https://custom-icon-badges.demolab.com/badge/LINK-6f42c1?logo=link&logoColor=fff" width="80" alt="Portfolio Badge" />
+            <img src="https://custom-icon-badges.demolab.com/badge/LINK-6f42c1?logo=link&logoColor=fff" width="75" alt="Portfolio Badge" />
           </a><br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
     </td>
