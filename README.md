@@ -50,22 +50,30 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nachopuerto/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=3" alt="LinkedIn" width="40" />
   </a>
-  
-  <!-- Portfolio -->
   <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/web.svg" alt="Portfolio" width="40" />
+    <img src="https://skillicons.dev/icons?i=web&perline=3" alt="Portfolio" width="40" />
   </a>
-  
-  <!-- Gmail -->
   <a href="mailto:nachopuerto95@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail&perline=3" alt="Gmail" width="40" />
   </a>
 </p>
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nachopuerto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:nachopuerto95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 
 
