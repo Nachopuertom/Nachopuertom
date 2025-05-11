@@ -5,7 +5,7 @@ I'm a developer with a passion for full-stack web development and low-level prog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,react,node,mongodb,c,cpp,html,css,bash,p5.jspostman,docker,ubuntu,vim,ai,ps,xd" />
   </a>
 </p>
 <br><br>
