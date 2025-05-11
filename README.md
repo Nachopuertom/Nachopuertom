@@ -13,5 +13,5 @@
   </tr>
 </table>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord)
+![](https://leetcard.jacoblin.cool/Nachopuerto95?ext=activity)
 
