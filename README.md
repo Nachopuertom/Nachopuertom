@@ -1,7 +1,8 @@
 ## 👋 Hello! I'm Nacho Puerto
 
 <p align="center">
-  I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid. <br>
+  I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
+  <br>
   <a href="mailto:tuemail@gmail.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail Badge" />
     </a>
