@@ -13,5 +13,5 @@
   </tr>
 </table>
 
-![](https://leetcard.jacoblin.cool/Nachopuerto95?ext=activity)
+![](https://leetcard.jacoblin.cool/Nachopuerto95?ext=activity_theme=nord)
 
