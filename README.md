@@ -3,7 +3,7 @@
 <p align="center">
   I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
 </p>
-<p align="center>
+<div align="center>
     <a href="mailto:tuemail@gmail.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail Badge" />
     </a>
@@ -13,7 +13,7 @@
     <a href="https://tu-portfolio.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
     </a>
-</p>
+</div>
 
 ## 🛠️ Skills
 
