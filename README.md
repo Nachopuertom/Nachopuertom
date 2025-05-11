@@ -6,9 +6,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.codewars.com/users/Nachopuerto95">
-        <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nachopuerto95&theme=dark" alt="Codewars stats" />
-      </a>
+  <a href="https://www.codewars.com/users/Nachopuerto95">
+    <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true&bg=%23111111&stroke=%23e0e0e0&text=%23e0e0e0" alt="Codewars stats" />
+  </a>
     </td>
   </tr>
 </table>
