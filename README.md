@@ -28,7 +28,7 @@
   </tr>
 </table>
 <details>
-  <summary><svg src="assets/42-logo.svg" width="40" alt="42 Logo" />> React Projects</summary>
+  <summary><img src="assets/42-logo.svg" alt="42 Logo" />> React Projects</summary>
 
   Aquí puedes describir tus proyectos con React, Node, etc.
 </details>
