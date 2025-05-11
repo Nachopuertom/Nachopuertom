@@ -156,7 +156,7 @@
 <table>
   <tr>
     <td>
-       <img src="assets/reelations.gif" />
+       <img src="assets/restaurants.gif" />
     </td>
     <td>
         Just eat style web, google apis, autocomplete, geolocation. <br>
