@@ -17,13 +17,11 @@
 <table align="center" width="300">
   <tr  width="300">
     <td align="center"  width="300">
-      <details>
-        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
+        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; 42 Profile</summary>
         <a href="https://github.com/oakoudad/badge42">
           <br><br>
           <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto's 42 stats" />
         </a>
-      </details>
     </td>
   </tr>
   <tr>
