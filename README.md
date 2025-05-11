@@ -44,13 +44,6 @@
       <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" />
     </a>
   </details>
-  <details>
-    <summary><img src="assets/5387632.png" width="20" /> &nbsp;Show Codewars Profile</summary>
-    <a href="https://www.codewars.com/users/Nachopuerto95">
-       <br>
-      <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" />
-    </a>
-  </details>
 
 
 </table>
