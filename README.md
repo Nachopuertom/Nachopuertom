@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
      <details>
-       <summary><img src="assets/42-logo.svg" width="16" color="white" alt="42 Logo" />Show 42 Profile</summary>
+       <summary align="center" ><img src="assets/42-logo.svg" width="16" color="white" alt="42 Logo" />Show 42 Profile</summary>
        <a href="https://github.com/oakoudad/badge42">
               <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto-'s 42 stats" />
         </a>
