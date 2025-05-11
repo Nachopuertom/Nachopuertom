@@ -13,7 +13,9 @@
   </tr>
   <tr>
     <td align="center">
-      ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+        <a href="https://leetcode.com/u/nachopuerto95/">
+          <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=nord" alt="Codewars stats" />
+        </a>
     </td>
   </tr>
 </table>
