@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Nacho Puerto's GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&hide_border=true&layout=compact&theme=transparent" alt="Top Languages" style="display:inline-block; width: 35%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&hide_border=true&layout=compact&theme=react" alt="Top Languages" style="display:inline-block; width: 35%;" />
 </p>
 
 <table align="center" width="600">
