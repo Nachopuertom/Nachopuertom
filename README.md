@@ -158,7 +158,7 @@
        <img src="assets/reelations.gif" />
     </td>
     <td>
-          Just eat style web, using google apis like autocomplete and geolocation. <br><br>
+        Just eat style web, using google apis like autocomplete and geolocation. <br><br>
         🚧 Currently in progress... 
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br>
