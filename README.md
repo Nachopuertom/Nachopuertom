@@ -31,21 +31,21 @@
 
 <p align="center">
   <details>
-    <summary><img src="assets/42-logo.svg" width="20" /> Show 42 Profile</summary>
+    <summary><img src="assets/42-logo.svg" width="20" /> &nbsp;Show 42 Profile</summary>
     <a href="https://github.com/oakoudad/badge42">
       <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" />
     </a>
   </details>
   &nbsp;&nbsp;&nbsp;
   <details>
-    <summary><img src="assets/LeetCode_Logo_1.png" width="20" /> Show LeetCode Profile</summary>
+    <summary><img src="assets/LeetCode_Logo_1.png" width="20" /> &nbsp;Show LeetCode Profile</summary>
     <a href="https://leetcode.com/u/nachopuerto95/">
       <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" />
     </a>
   </details>
   &nbsp;&nbsp;&nbsp;
   <details>
-    <summary><img src="assets/5387632.png" width="20" /> Show Codewars Profile</summary>
+    <summary><img src="assets/5387632.png" width="20" /> &nbsp;Show Codewars Profile</summary>
     <a href="https://www.codewars.com/users/Nachopuerto95">
       <img src="https://github.r2v.ch/codewars?user=Nachopuerto95&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" />
     </a>
