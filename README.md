@@ -6,10 +6,9 @@
 
 ## 🛠️ Skills
 
-<br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,react,nodejs,mongodb,c,cpp,html,css,postman,bash,docker,ubuntu,vim,p5js&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,react,nodejs,mongodb,c,cpp,html,css,postman,bash,docker,ubuntu,vim,p5js" />
   </a>
 </p>
 <p align="center">
