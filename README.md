@@ -8,6 +8,8 @@
         </a>
       </details>
     </td>
+  </tr>
+  <tr>
     <td align="center">
      <details>
        <summary>Haz clic para ver más</summary>
