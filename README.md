@@ -61,7 +61,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Shell mínima que implementa parsing, redirecciones y ejecución de comandos.
+        Development of a customized shell
     </td>
   </tr>
    <tr>
@@ -69,7 +69,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/philosophers"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Solución al problema clásico de sincronización con hilos y mutexes.
+        Solution to the classic problem of synchronization with threads and mutexes
     </td>
   </tr>
     <tr>
@@ -77,7 +77,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/push_swap"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Algoritmo para ordenar números con operaciones mínimas en dos pilas.
+        Algorithm for ordering numbers with minimal operations on two stacks.
     </td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/libft"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Implementación desde cero de funciones básicas de la libc en C.
+        Implementation from scratch of basic libc functions in C.
     </td>
   </tr>
   <tr>
@@ -93,15 +93,15 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/get_next_line"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Función para leer líneas de un descriptor de archivo, manejando buffers y memoria dinámica.
+        Function to read lines from a file descriptor, handling buffers and dynamic memory.    
     </td>
   </tr>
   <tr>
-    <td>🖥️ VirtualMachine</td>
+    <td>🖥️ VMachine</td>
     <td>C</td>
     <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Máquina virtual para simular el juego "Corewar" entre procesos ensambladores.
+        Introduction to virtualization and server administration.
     </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/ft_printf"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Réplica de la función `printf`, gestionando formatos, buffers y múltiples tipos.
+        Replica of the `printf function, with variadic functions. Managing formats, buffers and multiple types.
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/so_long"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Juego simple en 2D usando la librería gráfica MiniLibX.
+        Simple 2D game using the MiniLibX graphics library.
     </td>
   </tr>
 </table>
