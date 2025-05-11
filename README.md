@@ -5,17 +5,14 @@
   <br><br>
   <a href="mailto:tuemail@gmail.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail Badge" />
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/tuusuario/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge" />
-    </a>
+    </a>&nbsp;
     <a href="https://tu-portfolio.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
     </a>
 </p>
-<div align="center>
-    
-</div>
 
 ## 🛠️ Skills
 
