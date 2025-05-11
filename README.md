@@ -17,7 +17,6 @@
 <table align="center">
   <tr>
     <td align="center" >
-        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; 42 Profile</summary>
         <a href="https://github.com/oakoudad/badge42">
           <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto's 42 stats" />
         </a>
