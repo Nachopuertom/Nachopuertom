@@ -19,3 +19,12 @@
     </td>
   </tr>
 </table>
+
+<details>
+  <summary>Haz clic para ver más</summary>
+
+  Aquí puedes escribir contenido oculto que se desplegará al hacer clic.  
+  Puedes poner texto, imágenes, listas, e incluso código.
+
+  ```c
+  printf("Hola mundo");
