@@ -134,7 +134,7 @@
 
 <br>
 
-<img src="assets/fittracker.gif"/>
+![Carrusel de proyectos](assets/fittracker.gif)
 
 
 
