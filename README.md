@@ -5,3 +5,5 @@
 </p>
 
 [![Codewars](https://github.r2v.ch/codewars?user=Nachopuerto95&top_languages=true_theme=dark)](https://www.codewars.com/users/Nachopuerto95)
+[![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nachopuerto95&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
