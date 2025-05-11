@@ -11,16 +11,30 @@
     <img src="https://skillicons.dev/icons?i=git,github,js,react,nodejs,mongodb,c,cpp,html,css,postman,bash,docker,ubuntu,vim,p5js,ai,ps,xd&perline=12" />
   </a>
 </p>
-<br><br>
 
 ## 📚 My Coding Profiles
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/u/nachopuerto95/">
-        <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" alt="LeetCode stats" />
-      </a>
+      <details>
+        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
+        <a href="https://github.com/oakoudad/badge42">
+          <br><br>
+          <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto's 42 stats" />
+        </a>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
+         <a href="https://leetcode.com/u/nachopuerto95/">
+          <br><br>
+          <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" alt="LeetCode stats" />
+        </a>
+      </details>
     </td>
   </tr>
   <tr>
@@ -34,17 +48,7 @@
       </details>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <details>
-        <summary><img src="assets/42-logo.svg" width="20" alt="42 Logo" />&nbsp; Show 42 Profile</summary>
-        <a href="https://github.com/oakoudad/badge42">
-          <br><br>
-          <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" alt="jpuerto's 42 stats" />
-        </a>
-      </details>
-    </td>
-  </tr>
+
 </table>
 
 ## 🌐 Connect with Me
