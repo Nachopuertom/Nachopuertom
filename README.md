@@ -142,7 +142,8 @@
        <img src="assets/fittracker.gif" />
     </td>
     <td>
-        App for tracking daily exercise and calories ingest <br><br>
+        App for tracking daily exercise and calories ingest <br>
+      -------------------------------------------------------------<br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
@@ -176,7 +177,8 @@
        <img src="assets/reelations.gif" />
     </td>
     <td>
-          Film social network,featuring various functionalities <br><br>
+          Film social network,featuring various functionalities <br>
+      -------------------------------------------------------------<br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
@@ -192,7 +194,8 @@
        <img src="assets/adventure.gif" />
     </td>
     <td>
-        Just a 2D Platform endless runner game <br><br>
+        Just a 2D Platform endless runner game <br>
+      -------------------------------------------------------------<br>
           <a href="https://github.com/Nachopuerto95/minishell"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
         <br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,html,css" width="100" />
