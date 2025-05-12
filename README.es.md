@@ -1,6 +1,6 @@
 
 <p align="end">
-  <strong>🌐 Change language:</strong><br>
+  <strong>🌐 Cambiar idioma:</strong><br>
   <a href="/README.es.md">
    <img src="https://github.com/Nachopuerto95/multilang/blob/main/ES.png" alt="Español" width="50">
  </a>&nbsp;&nbsp;&nbsp;
