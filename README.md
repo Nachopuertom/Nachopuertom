@@ -64,10 +64,10 @@
 <br>
 <table align="center">
   <tr>
-    <th>📁 Proyecto</th>
-    <th>💻 Lenguaje</th>
-    <th>🔗 Documentación</th>
-    <th>ℹ️ Descripción</th>
+    <th>📁 Project</th>
+    <th>💻 Language</th>
+    <th>🔗 Documentation</th>
+    <th>ℹ️ Description</th>
   </tr>
     <tr>
     <td>🐚 Minishell</td>
