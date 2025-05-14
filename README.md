@@ -13,7 +13,7 @@
 <p align="center">
   I'm a developer with a passion for full-stack and software development, currently studing at 42 Madrid.
   <br><br>
-  CV - RESUME: &nbsp; <a href="https://github.com/Nachopuerto95/multilang/blob/main/jose%20ignacio.pdf">
+  CV - RESUME: &nbsp; <a href="https://github.com/Nachopuerto95/multilang/blob/main/jose_ignacio_puerto_CV.pdf">
       <img src="https://custom-icon-badges.demolab.com/badge/Link-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
     </a><br><br>
   <a href="nachopuerto95@gmail.com">
