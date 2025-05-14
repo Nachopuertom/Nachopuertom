@@ -13,7 +13,7 @@
 <p align="center">
   I'm a developer with a passion for full-stack and software development, currently studing at 42 Madrid.
   <br><br>
-  CV - RESUME: &nbsp; <a href="https://nachopuertoportfolio.netlify.app/">
+  CV - RESUME: &nbsp; <a href="https://github.com/Nachopuerto95/multilang/blob/main/jose%20ignacio.pdf">
       <img src="https://custom-icon-badges.demolab.com/badge/Link-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
     </a><br><br>
   <a href="nachopuerto95@gmail.com">
@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/nacho-puerto-mendoza-93184b173/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge" />
     </a >&nbsp; 
-    <a href="https://nachopuertoportfolio.netlify.app/">
+    <a href="#">
       <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
     </a>
 </p>
