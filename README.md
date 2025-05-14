@@ -11,14 +11,17 @@
 # 👋 Hello! I'm Nacho Puerto
 
 <p align="center">
-  I'm a developer with a passion for full-stack web development and low-level programming at 42 Madrid.
+  I'm a developer with a passion for full-stack and software development, currently studing at 42 Madrid.
   <br><br>
+  CV - RESUME: &nbsp; <a href="https://nachopuertoportfolio.netlify.app/">
+      <img src="https://custom-icon-badges.demolab.com/badge/Link-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
+    </a><br><br>
   <a href="nachopuerto95@gmail.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail Badge" />
-    </a>&nbsp;
+    </a> &nbsp; 
     <a href="https://www.linkedin.com/in/nacho-puerto-mendoza-93184b173/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge" />
-    </a>&nbsp;
+    </a >&nbsp; 
     <a href="https://nachopuertoportfolio.netlify.app/">
       <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-6f42c1?logo=link&logoColor=fff" alt="Portfolio Badge" />
     </a>
