@@ -133,7 +133,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/so_long"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Simple 2D game using the MiniLibX graphics library.
+        2D game using the MiniLibX graphics library. Paring map with Flood Fill algorithm
     </td>
   </tr>
    <tr>
